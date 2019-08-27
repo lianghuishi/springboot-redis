@@ -1,0 +1,7 @@
+spring:
+  redis:
+    pool:
+      min-idle: 10
+      max-idle: 5
+    host: mini3
+    port: 6379
